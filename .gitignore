@@ -1,1 +1,3 @@
 venv/
+gen_ai\GoogleNews-vectors-negative300.bin.gz
+*.gz
