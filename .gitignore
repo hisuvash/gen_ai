@@ -4,3 +4,7 @@ gen_ai\GoogleNews-vectors-negative300.bin.gz
 ner_model/
 test-ner/
 tokenizer/
+pegasus-samsum-model/
+pegasus-samsum-model1/
+samsum-tokenizer/
+samsum-tokenizer1/
